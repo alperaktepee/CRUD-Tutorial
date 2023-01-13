@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: white;
+}
+
+.main-header {
+  font-family: 'Montserrat', sans-serif;
+}
+body{
+  /* Created with https://www.css-gradient.com */
+background: #21254F;
+background: -webkit-linear-gradient(top left, #21254F, #794CDB);
+background: -moz-linear-gradient(top left, #21254F, #794CDB);
+background: linear-gradient(to bottom right, #21254F, #794CDB);
+}
+
